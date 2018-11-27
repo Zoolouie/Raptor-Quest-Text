@@ -1,0 +1,24 @@
+CandyBar maxhealth 10 "Tasty and chocolatey, +10 health"
+MeatSlab maxhealth 10 "A slab of meat, perfect for the growing raptor"
+ThrowingRock damage 10 "A rock for throwing..."
+TennisShoes speed 10 "A stylish pair of Jordans, built Raptor size!"
+RaptorBike speed 20 "A bike with especially long handlebars"
+BoxingGloves damage 10 "The claws burst through, but your Raptor seems tougher.."
+CamoSuit speed 40 "Probably not a good idea"
+PokingStick damage 5 "A giant stick your raptor can hold"
+RocketBoots speed 20 "Rocket boots!"
+AlligatorAde maxhealth 10 "A loving rip-off of a popular drink"
+JarofDirt speed 0 "Reduces speed...guess what's inside of it"
+Curry damage 5 "Spicy curry makes your Raptor angry"
+Broccoli maxhealth 1 "Not for Raptor Consumption"
+Rindstone damage 10 "Sharpens claws"
+TopHat luck 10 "Very stylish, boosts charisma"
+Monocle luck 10 "Very stylish, boosts charisma"
+Eyepatch luck 1 "Very stylish, but makes the raptor unable to see out of half of his eyes"
+MagicBroom speed 40 "WHEEEEEEEEE"
+RabadonsCap damage 40 "A very powerful item, whizzing with magic!"
+SexyArmor luck 40 "Skimpy raptor armor... not sure why it was made this way"
+
+
+
+
